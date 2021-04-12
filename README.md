@@ -1,12 +1,21 @@
 # calculator
-CALCULATOR WITH DAY AND NIGHT MODE 
-USE OF SIMPLE JAVASCRIPT  CSS & HTML
+<h1 align="center">CALCULATOR WITH DAY AND NIGHT MODE 
+USE OF SIMPLE JAVASCRIPT  CSS & HTML </h1>
+
+![01](https://user-images.githubusercontent.com/76132275/114362846-6ca33600-9b95-11eb-8c51-628242dedf44.png)
+
+![04](https://user-images.githubusercontent.com/76132275/114363009-99574d80-9b95-11eb-8260-b4ddba6f7bca.png)
+
+![02](https://user-images.githubusercontent.com/76132275/114362891-775dcb00-9b95-11eb-942e-c758d0bcd958.png)
+
+![03](https://user-images.githubusercontent.com/76132275/114362944-83498d00-9b95-11eb-9de0-4497186bb9bd.png)
 
 
 
 
-<h1 align="center">Hi 👋, I'm Atul Rai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h2 align="center">Hi , I'm Atul Rai</h2>
+<h3 align="center">A passionate web developer from India</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
